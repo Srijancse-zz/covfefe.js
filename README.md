@@ -1,2 +1,2 @@
 # covfefe.js
-New Javascript Framework xD
+Coming very soon! :P
